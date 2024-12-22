@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hello", "Hello\Hello.csproj", "{2C8A8CED-62AD-4CCE-B393-000873F5DF15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operator", "Operator\Operator.csproj", "{1B054613-D88D-4D75-BD49-B81FFB3C6A1A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlowControl", "FlowControl\FlowControl.csproj", "{0994C51D-44C7-498D-8D07-DE66FC6B44AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C8A8CED-62AD-4CCE-B393-000873F5DF15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C8A8CED-62AD-4CCE-B393-000873F5DF15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C8A8CED-62AD-4CCE-B393-000873F5DF15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C8A8CED-62AD-4CCE-B393-000873F5DF15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B054613-D88D-4D75-BD49-B81FFB3C6A1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B054613-D88D-4D75-BD49-B81FFB3C6A1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B054613-D88D-4D75-BD49-B81FFB3C6A1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B054613-D88D-4D75-BD49-B81FFB3C6A1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0994C51D-44C7-498D-8D07-DE66FC6B44AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0994C51D-44C7-498D-8D07-DE66FC6B44AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0994C51D-44C7-498D-8D07-DE66FC6B44AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0994C51D-44C7-498D-8D07-DE66FC6B44AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A064C329-DE02-453C-B748-49D20D060FA4}
+	EndGlobalSection
+EndGlobal
