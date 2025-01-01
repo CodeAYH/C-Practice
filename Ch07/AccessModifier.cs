@@ -22,7 +22,7 @@ class WaterHeater
 }
 internal class AccessModifier
 {
-    static void Main(string[] args)
+    static void MainAccessModifier(string[] args)
     {
         try
         {
