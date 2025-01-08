@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09장", "Property\09장.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10장", "10장\10장.csproj", "{B47A18F6-B9FB-4DCD-89E9-D70B8EE366F8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11장", "11장\11장.csproj", "{FA876A91-C2B8-42E1-8917-B272D46C864D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,18 @@ Global
 		{B47A18F6-B9FB-4DCD-89E9-D70B8EE366F8}.Release|x64.Build.0 = Release|Any CPU
 		{B47A18F6-B9FB-4DCD-89E9-D70B8EE366F8}.Release|x86.ActiveCfg = Release|Any CPU
 		{B47A18F6-B9FB-4DCD-89E9-D70B8EE366F8}.Release|x86.Build.0 = Release|Any CPU
+		{FA876A91-C2B8-42E1-8917-B272D46C864D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA876A91-C2B8-42E1-8917-B272D46C864D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA876A91-C2B8-42E1-8917-B272D46C864D}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{FA876A91-C2B8-42E1-8917-B272D46C864D}.Debug|x64.Build.0 = Debug|Any CPU
+		{FA876A91-C2B8-42E1-8917-B272D46C864D}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{FA876A91-C2B8-42E1-8917-B272D46C864D}.Debug|x86.Build.0 = Debug|Any CPU
+		{FA876A91-C2B8-42E1-8917-B272D46C864D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA876A91-C2B8-42E1-8917-B272D46C864D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA876A91-C2B8-42E1-8917-B272D46C864D}.Release|x64.ActiveCfg = Release|Any CPU
+		{FA876A91-C2B8-42E1-8917-B272D46C864D}.Release|x64.Build.0 = Release|Any CPU
+		{FA876A91-C2B8-42E1-8917-B272D46C864D}.Release|x86.ActiveCfg = Release|Any CPU
+		{FA876A91-C2B8-42E1-8917-B272D46C864D}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
