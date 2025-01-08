@@ -6,21 +6,21 @@ using System.Threading.Tasks;
 
 namespace _07장
 {
-    class Cat
+    class Cat2
     {
-        public Cat()
+        public Cat2()
         {
             Name = "";
             Color = "";
         }
 
-        public Cat(string _Name, string _Color)
+        public Cat2(string _Name, string _Color)
         {
             Name = _Name;
             Color = _Color;
         }
 
-        ~Cat()
+        ~Cat2()
         {
             Console.WriteLine("Destructor");
         }
@@ -30,18 +30,18 @@ namespace _07장
 
         public void Meow()
         {
-            Console.WriteLine($"{Name}: 야옹");
+            Console.WriteLine($"{this.Name}: 야옹");
         }
     }
     internal class Constructor
     {
         static void MainConstructor()
         {
-            Cat kitty = new Cat("키티", "하얀색");
+            Cat2 kitty = new Cat2("키티", "하얀색");
             kitty.Meow();
             Console.WriteLine($"{kitty.Name} : {kitty.Color}");
 
-            Cat nero = new Cat("네로", "껌은색");
+            Cat2 nero = new Cat2("네로", "껌은색");
             nero.Meow();
             Console.WriteLine($"{nero.Name} : {nero.Color}");
         }

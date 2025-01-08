@@ -2,7 +2,7 @@
 namespace _07장;
 
 
-class Cat2
+class Cat3
 {
     public string Name;
     public string Color;
