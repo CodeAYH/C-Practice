@@ -10,7 +10,7 @@ namespace _06장
     {
         static void PrintProfile(string name, string phone)
         {
-            Console.WriteLine($"{name}, {phone})
+            Console.WriteLine($"{name}, {phone}");
         }
     }
 }

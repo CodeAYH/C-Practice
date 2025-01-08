@@ -23,6 +23,12 @@ namespace _07장
         static void Main()
         {
             var alice = (job: "학생", age: 17);
+            var bob = (job: "학생", age: 23);
+            var charile = (job: "일반", age: 15);
+            var dave = (job: "일반", age: 21);
+
+            
+
         }
     }
 }
