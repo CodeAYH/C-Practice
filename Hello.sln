@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13장", "13장\13장.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14장", "14장\14장.csproj", "{BF2C461D-F474-490C-82D4-2C2E1AB2B165}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15장", "15장\15장.csproj", "{49B79227-5996-4CB1-A1E9-10A6678F91C6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -209,6 +211,18 @@ Global
 		{BF2C461D-F474-490C-82D4-2C2E1AB2B165}.Release|x64.Build.0 = Release|Any CPU
 		{BF2C461D-F474-490C-82D4-2C2E1AB2B165}.Release|x86.ActiveCfg = Release|Any CPU
 		{BF2C461D-F474-490C-82D4-2C2E1AB2B165}.Release|x86.Build.0 = Release|Any CPU
+		{49B79227-5996-4CB1-A1E9-10A6678F91C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49B79227-5996-4CB1-A1E9-10A6678F91C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49B79227-5996-4CB1-A1E9-10A6678F91C6}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{49B79227-5996-4CB1-A1E9-10A6678F91C6}.Debug|x64.Build.0 = Debug|Any CPU
+		{49B79227-5996-4CB1-A1E9-10A6678F91C6}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{49B79227-5996-4CB1-A1E9-10A6678F91C6}.Debug|x86.Build.0 = Debug|Any CPU
+		{49B79227-5996-4CB1-A1E9-10A6678F91C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49B79227-5996-4CB1-A1E9-10A6678F91C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49B79227-5996-4CB1-A1E9-10A6678F91C6}.Release|x64.ActiveCfg = Release|Any CPU
+		{49B79227-5996-4CB1-A1E9-10A6678F91C6}.Release|x64.Build.0 = Release|Any CPU
+		{49B79227-5996-4CB1-A1E9-10A6678F91C6}.Release|x86.ActiveCfg = Release|Any CPU
+		{49B79227-5996-4CB1-A1E9-10A6678F91C6}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
