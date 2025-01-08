@@ -9,7 +9,7 @@
                 target[i] = source[i];
             }
         }
-        static void Main(string[] args)
+        static void MainCopyingArray(string[] args)
         {
             int[] source = { 1, 2, 3, 4, 5 };
             int[] target = new int[source.Length];
