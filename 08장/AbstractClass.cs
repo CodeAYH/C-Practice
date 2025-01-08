@@ -31,7 +31,7 @@ namespace _08장
     }
     internal class AbstractClass
     {
-        static void MainAbstractClass()
+        static void Main()
         {
 
         }
