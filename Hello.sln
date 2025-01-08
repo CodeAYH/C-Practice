@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12장", "12장\12장.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13장", "13장\13장.csproj", "{0FF30055-BAFB-4B40-B038-75E65B59DAE7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14장", "14장\14장.csproj", "{BF2C461D-F474-490C-82D4-2C2E1AB2B165}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -195,6 +197,18 @@ Global
 		{0FF30055-BAFB-4B40-B038-75E65B59DAE7}.Release|x64.Build.0 = Release|Any CPU
 		{0FF30055-BAFB-4B40-B038-75E65B59DAE7}.Release|x86.ActiveCfg = Release|Any CPU
 		{0FF30055-BAFB-4B40-B038-75E65B59DAE7}.Release|x86.Build.0 = Release|Any CPU
+		{BF2C461D-F474-490C-82D4-2C2E1AB2B165}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF2C461D-F474-490C-82D4-2C2E1AB2B165}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF2C461D-F474-490C-82D4-2C2E1AB2B165}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{BF2C461D-F474-490C-82D4-2C2E1AB2B165}.Debug|x64.Build.0 = Debug|Any CPU
+		{BF2C461D-F474-490C-82D4-2C2E1AB2B165}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{BF2C461D-F474-490C-82D4-2C2E1AB2B165}.Debug|x86.Build.0 = Debug|Any CPU
+		{BF2C461D-F474-490C-82D4-2C2E1AB2B165}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF2C461D-F474-490C-82D4-2C2E1AB2B165}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF2C461D-F474-490C-82D4-2C2E1AB2B165}.Release|x64.ActiveCfg = Release|Any CPU
+		{BF2C461D-F474-490C-82D4-2C2E1AB2B165}.Release|x64.Build.0 = Release|Any CPU
+		{BF2C461D-F474-490C-82D4-2C2E1AB2B165}.Release|x86.ActiveCfg = Release|Any CPU
+		{BF2C461D-F474-490C-82D4-2C2E1AB2B165}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
